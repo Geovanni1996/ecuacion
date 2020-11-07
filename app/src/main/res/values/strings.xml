@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ecuacion</string>
+    <string name="ax">Ingresa a</string>
+    <string name="bx">Ingresa b</string>
+    <string name="cx">Ingresa c</string>
+    <string name="calcular">calcular</string>
+
+</resources>
